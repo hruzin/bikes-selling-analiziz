@@ -1,0 +1,10 @@
+Hello my name is Mamuka. I want to show you my project.It about bikes selling in the world. I took this dataset from www.kaggle.com. So, let's get started. 
+For creating the project I used Python library Pandas and Tableau for visualization.
+The goal of this project is to answer the following questions:
+- Prepare dataset 
+- What types of products are in the dataset?
+- What are the top orders?
+- Show orders lower than average
+- Show data depends on gender
+
+And the major goal of this project: show that data analysis it's important sector and really interesting.
